@@ -1,0 +1,57 @@
+Maze 1 Solutions: 
+Solution number: 1
+
+11111
+bppp1
+101p1
+100e1
+11111
+
+Solution number: 2
+
+11111
+bp001
+1p101
+1ppe1
+11111
+
+
+Maze 2 Solutions: 
+Solution number: 1
+
+11111111
+bpppppp1
+101101p1
+101101p1
+100000e1
+11111111
+
+Solution number: 2
+
+11111111
+bpppp001
+1011p101
+1011p101
+1000ppe1
+11111111
+
+Solution number: 3
+
+11111111
+bp00ppp1
+1p11p1p1
+1p11p1p1
+1pppp0e1
+11111111
+
+Solution number: 4
+
+11111111
+bp000001
+1p110101
+1p110101
+1pppppe1
+11111111
+
+
+Process finished with exit code 0
